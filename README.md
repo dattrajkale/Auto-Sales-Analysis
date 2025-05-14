@@ -1,18 +1,18 @@
-#1. Project Title
+# 1.Project Title
 
-Auto Sales Data Analysis Using Power BI
+# Auto Sales Data Analysis Using Power BI
 
-2. Description
+# 2.Description
 
 This project involves analyzing auto sales data to uncover key business insights. It focuses on identifying sales trends, segmenting customers, forecasting sales, and evaluating product and regional performance. The analysis empowers data-driven decisions to support business growth.
 
-3. Tech Stack
+# 3.Tech Stack
 
 * Power BI - (Data visualization and dashboard development)
 * Microsoft Excel/CSV - (Data source)
 * DAX - (Data Analysis Expressions for calculations and metrics)
 
-4. Features & Highlights
+# 4.Features & Highlights
 
 * Interactive dashboards showing total sales, customer count, and quantity sold
 * Yearly sales breakdown (2018–2020)
@@ -23,12 +23,11 @@ This project involves analyzing auto sales data to uncover key business insights
 * Deal size analysis (small, medium, large)
 * Insights into repeat vs. new customers
 
-5. Business Problem
+## 5.Business Problem
 
 The company lacked clear insights into their sales data, making it difficult to identify top-performing products, valuable customers, and optimal sales periods. They needed a solution to drive marketing efforts, inventory planning, and strategic sales initiatives.
 
-
-6. Key Question
+# 6.Key Question
 
 * What are the key sales trends across years and regions?
 * Who are our most valuable customers?
