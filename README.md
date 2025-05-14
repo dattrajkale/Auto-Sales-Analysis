@@ -37,6 +37,5 @@ The company lacked clear insights into their sales data, making it difficult to 
 * What is the impact of deal size on total revenue?
 * When is the best time to launch marketing campaigns?
 
-
-
+# Dashboard Preview
 ![Screenshot -Auto Sales Analysis](https://github.com/user-attachments/assets/2d62409b-287b-4290-bcfe-ac12cab10a44)
