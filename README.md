@@ -1,4 +1,4 @@
-1. Project Title
+#1. Project Title
 
 Auto Sales Data Analysis Using Power BI
 
